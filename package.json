@@ -1,5 +1,5 @@
 {
-  "name": "vue-baidu-map",
+  "name": "sw-vue-baidu-map",
   "version": "0.21.11",
   "description": "Baidu Map Component for Vue 2.0",
   "main": "index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dafrok/vue-baidu-map.git"
+    "url": "git+https://github.com/xiaozeo/sw-vue-baidu-map.git"
   },
   "keywords": [
     "vue",
