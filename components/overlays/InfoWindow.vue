@@ -65,7 +65,7 @@ export default {
       this.reload()
     },
     maxWidth () {
-      this.reload()
+      //this.reload()
     },
     width (val) {
       this.originInstance.setWidth(val)
